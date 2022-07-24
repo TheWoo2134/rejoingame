@@ -13,4 +13,3 @@ local Rejoin = coroutine.create(function()
 end)
  
 coroutine.resume(Rejoin)
-end)
